@@ -1,10 +1,10 @@
-package eu.europeana.eval.corpus.eval_corpus;
+package eu.europeana.eval.corpus;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class EDMMongoWriter 
 {
     public static void main( String[] args )
     {
